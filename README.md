@@ -1,6 +1,7 @@
 ## Unofficial Installer
 I made an unofficial installer for BetterVencord! I got tired of rebuilding every time there was an update and teaching my friends how to compile from git, so I just made my own basic installer! It takes care of dependencies and moving files, so all you gotta do is click a few buttons! (and watch the cool flashy text) I had a lot of fun making this, and it's my first time developing a program at all, but I'm still open to suggestions and feedback! I hope less technologically knowledgeable people than me can finally enjoy this awesome Discord mod.
-
+### NOTE:
+The installer will trigger Windows SmartScreen because it does not have a license. I´M NOT PAYING MONEY TO VERIFY A SIMPLE INSTALLER.
 ## In a galaxy of coding capers... When BetterDiscord and Vencord dared to merge...
 ## Behold... BetterVencord!
 ![image](https://github.com/Davilarek/Vencord/assets/62715937/7126afa2-6086-4675-9427-e3f0cf542651)
